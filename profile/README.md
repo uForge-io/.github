@@ -1,4 +1,4 @@
-## uForge.io is ***micro***-Forge.io 👋
+# uForge.io is ***micro***-Forge.io, or $\mu$-Forge.io or ***you***-Forge.io, up to you! 
 
 <!--
 
